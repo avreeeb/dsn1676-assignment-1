@@ -52,7 +52,7 @@ border-width: 21px 21px 21px 21px;
 
 .img-flex {
 display: block;
-width: 100%;
+width: 90%;
 }
 
 .brown {
@@ -61,5 +61,12 @@ height: 100%;
 }
 
 .icon {
+display: block;
+height: 3rem;
+margin-left: auto;
+margin-right: auto;
+}
+
+.beige {
 }
 
