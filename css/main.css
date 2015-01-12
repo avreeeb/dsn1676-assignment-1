@@ -31,3 +31,13 @@ display: inline-block;
 background-color: #e7e5d9;
 text-shadow: 3px 3px 0 #c2c2c2;
 }
+
+.masthead {
+background-image: url("../images/masthead-bg.png") repeat left center;
+text-align: center;
+}
+
+.bg {
+	background-color: #e7e5d9;
+}
+
