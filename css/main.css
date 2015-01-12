@@ -33,6 +33,7 @@ text-shadow: 3px 3px 0 #c2c2c2;
 }
 
 .masthead {
+background: url("../images/masthead-bg.png");
 text-align: center;
 }
 
@@ -40,6 +41,14 @@ text-align: center;
 	background-color: #e7e5d9;
 }
 
+.img-border {
+border-image: url("../images/panel-border.png") 21 21 21 21 stretch stretch;
+border-width: 21px 21px 21px 21px;
+}
 
+.img-flex {
+display: block;
+width: 100%;
+}
 
 
