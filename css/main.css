@@ -18,6 +18,10 @@ text-size-adjust: 100%;
 	box-sizing: inherit;
 }
 
+.font {
+	font-family: 'Abril Fatface', cursive;
+}
+
 .logo {
 background-image: url("../images/logo.svg"), url("../images/logo.svg");
 background-position: right center, left center;
