@@ -55,6 +55,10 @@ display: block;
 width: 90%;
 }
 
+.b-size {
+	width: 70%;
+}
+
 .brown {
 background-color: #87714f;
 height: 100%;
