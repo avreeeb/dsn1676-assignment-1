@@ -42,7 +42,7 @@ text-align: center;
 }
 
 .img-border {
-border-image: url("../images/panel-border.png") 21 21 21 21 stretch stretch;
+border-image: url("../images/border.png") 21 21 21 21 stretch stretch;
 border-width: 21px 21px 21px 21px;
 }
 
