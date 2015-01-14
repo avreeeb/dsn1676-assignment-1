@@ -43,6 +43,7 @@ text-align: center;
 
 .bg {
 	background-color: #e7e5d9;
+	margin:0;
 }
 
 .img-border {
@@ -83,4 +84,9 @@ margin-top: 0;
 
 .white {
 color: #fff;
+}
+
+body {
+margin: 0;
+padding: 0;
 }
